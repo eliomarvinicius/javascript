@@ -8,6 +8,6 @@ function parimpar(n) {
     }
 }
 
-let res = parimpar(11)
+let res = parimpar(357)
 
 console.log(`O número é ${res}`)

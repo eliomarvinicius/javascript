@@ -1,4 +1,5 @@
-let amigo = {nome: 'José',
+let amigo = {
+nome: 'José',
 sexo: 'M',
 peso: 85.4,
 engordar(p){
@@ -7,4 +8,4 @@ engordar(p){
 }
  }
  amigo.engordar(3)
-console.log(`${amigo.nome} pes ${amigo.peso}Kg`)
+console.log(`${amigo.nome} pesa ${amigo.peso}Kg`)
